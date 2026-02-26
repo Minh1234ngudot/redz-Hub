@@ -1,10 +1,9 @@
 # RedZ Hub - Best Remake Version By MinhZ
 
-The Best Remake RedZ Hub Version And Make By MinhZ, With RedZ Library
+The Best Remake RedZ Hub Version And RedZ Library | Created By MinhZ
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Roblox](https://img.shields.io/badge/platform-Roblox-red)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ## ⭐ Scripts ⭐
 ### RedZ Hub (Copied In Below)
@@ -15,3 +14,11 @@ local Settings = {
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Minh1234ngudot/RedZ-Hub/refs/heads/main/RedZ-Hub.lua"))(Settings)
 ```
+## 🤝 Credits
+
+- **Created by:** MinhZ
+
+## 📞 Support
+
+- **Discord:** [Discord Here](https://discord.gg/q2DzqWgpTC)
+- **GitHub:** [GitHub Here](https://github.com/Minh1234ngudot)
