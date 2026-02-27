@@ -1,6 +1,6 @@
 local v1 = {}
 
-loadstring(game:HttpGet('github.com/Minh1234ngudot/redz-Hub/raw/refs/heads/main/Access/Config.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Minh1234ngudot/redz-Hub/refs/heads/main/Access/Config.lua'))()
 
 local vu2 = game:GetService('Players')
 local vu3 = vu2.LocalPlayer
